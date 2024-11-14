@@ -22,7 +22,7 @@ C++             | C#          | C
 Intel x86 ASM   | Python      | JavaScript/TypeScript
 Rust            | HTML/CSS    | Zig
 Lua             | MySQL
-
+```
 ---
 
 ## 📈 GitHub Stats:
