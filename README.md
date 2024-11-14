@@ -29,7 +29,7 @@ Here are the languages and tools I work with, whether it’s building software f
 C++             | C#          | C
 Intel x86 ASM   | Python      | JavaScript/TypeScript
 Rust            | HTML/CSS    | Zig
-Lua             | MySQL
+Lua             | MySQL       | Fortran
 ```
 ---
 
