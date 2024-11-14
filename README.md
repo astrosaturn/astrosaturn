@@ -18,7 +18,7 @@ Hi there! I'm **Saturn**, a computer science student from Ontario, Canada. I’m
 Here are the languages and tools I work with, whether it’s building software from scratch or diving into system-level programming:
 
 ```plaintext
-C++         | C#          | C
-Intel x86 ASM           | Python      | JavaScript/TypeScript
-Rust                    | HTML/CSS    | Zig
-Lua                     | MySQL
+C++             | C#          | C
+Intel x86 ASM   | Python      | JavaScript/TypeScript
+Rust            | HTML/CSS    | Zig
+Lua             | MySQL
