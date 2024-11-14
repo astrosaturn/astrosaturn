@@ -22,3 +22,11 @@ C++             | C#          | C
 Intel x86 ASM   | Python      | JavaScript/TypeScript
 Rust            | HTML/CSS    | Zig
 Lua             | MySQL
+
+---
+
+## 📈 GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=astrosaturn&show_icons=true&hide_title=true)
+
+---
