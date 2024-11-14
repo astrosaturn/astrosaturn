@@ -15,10 +15,10 @@ Hi there! I'm **Saturn**, a computer science student from Ontario, Canada. I’m
 
 ## { } Repos
 
-- Lester V3     | discord.gg/gtao's very own discord bot - Developer
-- Pigeon.ts     | discord.gg/teenserv moderation bot - Developer
-- Dove.py       | discord.gg/teenserv mod mail bot - Lead Developer
-- Raven.py      | r/teenagers moderation bot - Developer
+- Lester V3     | discord.gg/gtao moderation/user management - Developer
+- Pigeon.ts     | discord.gg/teenserv moderation/user management - Developer
+- Dove.py       | discord.gg/teenserv mod mail - Lead Developer
+- Raven.py      | r/teenagers moderation/user management - Developer
 - CPADiscordBot | [St Lawrence College's Discord bot](https://github.com/astrosaturn/CPADiscordBot) - Lead developer
 
 ## 🛠️ Languages & Technologies
