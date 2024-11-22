@@ -15,11 +15,13 @@ Hi there! I'm **Saturn**, a computer science student from Ontario, Canada. I’m
 
 ## { } Repos
 
-- Lester V3     | discord.gg/gtao moderation/user management - Developer
-- Pigeon.ts     | discord.gg/teenserv moderation/user management - Developer
-- Dove.py       | discord.gg/teenserv mod mail - Lead Developer
-- Raven.py      | r/teenagers moderation/user management - Developer
+- Lester V3     | discord.gg/gtao        (moderation/user management) - Developer
+- Pigeon.ts     | discord.gg/teenagers   (moderation/user management) - Developer
+- Raven.py      | reddit.com/r/teenagers (moderation/user management) - Developer
+- Dove.py       | discord.gg/teenagers   (mod mail/ticket system) - Lead Developer
 - CPADiscordBot | [St Lawrence College's Discord bot](https://github.com/astrosaturn/CPADiscordBot) - Lead developer
+
+---
 
 ## 🛠️ Languages & Technologies
 
@@ -28,7 +30,7 @@ Here are the languages and tools I work with, whether it’s building software f
 ```plaintext
 C++             | C#          | C
 Intel x86 ASM   | Python      | JavaScript/TypeScript
-Rust            | HTML/CSS    | Zig
+Rust            | HTML/CSS    | COBOL
 Lua             | MySQL       | Fortran
 ```
 ---
