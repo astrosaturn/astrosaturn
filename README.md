@@ -16,15 +16,15 @@ Hi there! I'm **Saturn**, a computer science student from Ontario, Canada. I’m
 ## { } Repos
 
 - Lester V3     | discord.gg/gtao        (moderation/user management) - Developer
-- - Python, Docker, MariaDB, YAML, JSON
+  - Python, Docker, MariaDB, YAML, JSON
 - Pigeon.ts     | discord.gg/teenagers   (moderation/user management) - Developer
-- - Typescript, MariaDB, JSON
+  - Typescript, MariaDB, JSON
 - Raven.py      | reddit.com/r/teenagers (moderation/user management) - Developer
-- - Python, MariaDB, PRAW, 
+  - Python, MariaDB, PRAW, 
 - Dove.py       | discord.gg/teenagers   (mod mail/ticket system) - Lead Developer
-- - Python, MariaDB, JSON
+  - Python, MariaDB, JSON
 - CPADiscordBot | [St Lawrence College's Discord bot](https://github.com/astrosaturn/CPADiscordBot) - Lead developer
-- - Python, SQLAlchemy, SQLlite, JSON
+  - Python, SQLAlchemy, SQLlite, JSON
 
 ---
 
