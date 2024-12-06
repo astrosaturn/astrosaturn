@@ -1,6 +1,6 @@
 # 🌌 Saturn
 
-Hi there! I'm **Saturn**, a computer science student from Ontario, Canada. I’m passionate about exploring the depths of technology, from high-level applications to low-level systems. As a full-stack developer, I enjoy diving into both front-end and back-end development, I have a particular affinity for low-level languages and systems programming.
+Hi there! I'm **Saturn**, a computer science student from Ontario, Canada. I’m passionate about exploring the depths of technology, from high-level applications to low-level systems. As a full-stack developer, I enjoy both front-end and back-end development, I have a particular affinity for low-level languages and systems programming.
 
 ---
 
@@ -30,12 +30,12 @@ Hi there! I'm **Saturn**, a computer science student from Ontario, Canada. I’m
 
 ## 🛠️ Languages & Technologies
 
-Here are the languages and tools I work with:
+Here are the languages I work with:
 ```plaintext
 C++             | C#          | C
 Intel x86 ASM   | Python      | JavaScript/TypeScript
 Rust            | HTML/CSS    | COBOL
-Lua             | MySQL       | Fortran
+Lua             | MySQL       | PHP
 ```
 ---
 
