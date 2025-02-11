@@ -9,8 +9,8 @@ Hi there! My name is Eric, a computer science student from Ontario, Canada. I’
 - 🔭 **Full Stack Developer** with a love for **low-level programming**
 - 🤖 Robotics, VR, and PC building enthusiast
 - 🌍 Open to collaboration on challenging and impactful projects
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/ericporoznik)
 - 💬 Reach me on Discord: **@astrosaturn**
-- 🤝 Connect with me: [LinkedIn](https://www.linkedin.com/in/ericporoznik)
 
 ---
 
