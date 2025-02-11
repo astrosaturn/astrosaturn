@@ -16,15 +16,16 @@ Hi there! My name is Eric, a computer science student from Ontario, Canada. I’
 ## { } Repos
 
 - Lester V3     | discord.gg/gtao        (moderation/user management) - Developer
-  - Python, Docker, MariaDB, YAML, JSON, Hetzner
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 - Pigeon.ts     | discord.gg/teenagers   (moderation/user management) - Developer
   - Typescript, MariaDB, JSON, AWS
 - Raven.py      | reddit.com/r/teenagers (moderation/user management) - Developer
-  - Python, MariaDB, PRAW, AWS
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), MariaDB, PRAW, AWS
 - Dove.py       | discord.gg/teenagers   (mod mail/ticket system) - Lead Developer
-  - Python, MariaDB, JSON, AWS
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), MariaDB, JSON, AWS
 - CPADiscordBot | [St Lawrence College's Discord bot](https://github.com/astrosaturn/CPADiscordBot) - Lead developer
-  - Python, SQLAlchemy, SQLlite, JSON, DigitalOcean
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), SQLAlchemy, SQLlite, JSON, DigitalOcean
 
 ---
 
@@ -47,6 +48,7 @@ Hi there! My name is Eric, a computer science student from Ontario, Canada. I’
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://www.digitalocean.com/)
