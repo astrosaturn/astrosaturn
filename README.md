@@ -14,7 +14,7 @@ Hi there! My name is Eric, a computer science student from Ontario, Canada. I’
 
 ---
 
-## { } Repos
+## { } Projects
 
 - Lester V3     | discord.gg/gtao        (moderation/user management) - Developer
 
