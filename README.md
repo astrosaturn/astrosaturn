@@ -1,6 +1,6 @@
 # 🌌 Eric Poroznik
 
-Hi there! My name is Eric, a computer science student from Ontario, Canada. I’m passionate about exploring the depths of technology, from high-level applications to low-level systems. As a full-stack developer, I enjoy both front-end and back-end development, I have a particular affinity for low-level languages and systems programming.
+Hi there! I'm a computer science student from Ontario, Canada. I’m passionate about exploring the depths of technology, from high-level applications to low-level systems. As a full-stack developer, I enjoy both front-end and back-end development, I have a particular affinity for low-level languages and systems programming.
 
 ---
 
@@ -9,7 +9,6 @@ Hi there! My name is Eric, a computer science student from Ontario, Canada. I’
 - 🔭 **Full Stack Developer** with a love for **low-level programming**
 - 🤖 Robotics, VR, and PC building enthusiast
 - 🌍 Open to collaboration on challenging and impactful projects
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/ericporoznik)
 - 💬 Reach me on Discord: **@astrosaturn**
 
 ---
