@@ -1,6 +1,5 @@
-# 🌌 Eric / Saturn
-
-Hi there! I'm a computer science student from Ontario, Canada. I’m passionate about exploring the depths of technology, from high-level applications to low-level systems. As a full-stack developer, I enjoy both front-end and back-end development, I have a particular affinity for low-level languages and systems programming.
+# 🌌 Hey there! My name is Eric, or you can call me Saturn.
+I'm a computer science student from Ontario, Canada. I’m passionate about exploring the depths of technology, from high-level applications to low-level systems. As a full-stack developer, I enjoy both front-end and back-end development, I have a particular affinity for low-level languages and systems programming.
 
 ---
 
