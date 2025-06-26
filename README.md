@@ -1,5 +1,5 @@
 # 🌌 Hello! My name is Eric, or you can call me Saturn.
-I'm a computer science student from Ontario, Canada. I’m passionate about buildimg all kinds of technology, from high-level applications to low-level systems. 
+I'm a computer science student from Ontario, Canada. I’m passionate about building all kinds of technology, from high-level applications to low-level systems. 
 
 I am currently in my summer internship in the CDA team in Kingston at the Department of National Defence. Right now I'm working on a full-stack Vue/Nuxt application for CAF members!
 
