@@ -1,15 +1,15 @@
-# 🌌 Hey there! My name is Eric, or you can call me Saturn.
-I'm a computer science student from Ontario, Canada. I’m passionate about exploring the depths of technology, from high-level applications to low-level systems. As a full-stack developer, I enjoy both front-end and back-end development, I have a particular affinity for low-level languages and systems programming.
+# 🌌 Hello! My name is Eric, or you can call me Saturn.
+I'm a computer science student from Ontario, Canada. I’m passionate about buildimg all kinds of technology, from high-level applications to low-level systems. 
+
+I am currently in my summer internship in the CDA team in Kingston at the Department of National Defence. Right now I'm working on a full-stack Vue/Nuxt application for CAF members!
 
 ---
 
 ## 🌐 About Me
-- 🎓 **Computer Science Student** | Ontario, Canada
-- 🔭 **Full Stack Developer** with a love for **low-level programming**
+- 🎓 **Computer Science Student** 
+- 🔭 **Full Stack Developer** 
 - 🤖 Robotics, VR, and PC building enthusiast
-- 🌍 Open to collaboration on challenging and impactful projects
-- 💬 Reach me on Discord: **@astrosaturn**
-
+- 🌍 Open to collaborative projects
 ---
 
 ## { } Projects
