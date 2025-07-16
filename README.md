@@ -52,6 +52,7 @@ I am currently in my summer internship in the CDA team in Kingston at the Depart
 These are some of the languages and tools that I've used professionally, academically, and personally.
 
 **I'm comfortable with these:**
+
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
@@ -71,6 +72,7 @@ These are some of the languages and tools that I've used professionally, academi
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 **Not as experienced with and still learning:**
+
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
