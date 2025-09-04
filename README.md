@@ -93,3 +93,5 @@ These are some of the languages and tools that I've used professionally, academi
   [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
   [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astrosaturn&label=Profile%20views&color=3cb371" alt="astrosaturn" /> </p>
