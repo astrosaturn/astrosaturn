@@ -79,6 +79,7 @@ These are some of the languages and tools that I've used professionally, academi
   [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
   [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+  [![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff)](#)
 
 **Not as experienced with and still learning:**
 
