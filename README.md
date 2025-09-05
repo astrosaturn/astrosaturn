@@ -9,7 +9,7 @@ I have worked on a variety of different projects including web development, game
 
 ## 🌐 About Me
 - 🎓 **3rd year Computer Science student** 
-- 🔭 **I consider myself a full stack developer** 
+- 🔭 **Comfortable as a full stack developer** 
 - 🤖 **I have a particular interest in VR and Robotics**
 - 🌍 **I learn very quickly and I am open to collaborative projects to expand my knowledge**
 
