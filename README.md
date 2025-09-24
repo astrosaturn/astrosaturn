@@ -49,7 +49,7 @@ These are some projects I've worked on. Most are personal projects I helped deve
 **Professional**
 
 > [!IMPORTANT]
-> Due to security requirements, details on this section will be limited!
+> Due to security requirements, details in this section will be limited!
 
 - CAF Campus    | Department of National Defense (learning/information hub for canadian military members) - Full Stack Junior Developer
 
