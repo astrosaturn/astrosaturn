@@ -19,7 +19,7 @@ I have also worked on projects linking software to external hardware like VR Hap
 
 ## { } Projects
 
-These are some projects I've worked on. Most are personal projects I helped develop and lead. 
+These are some projects I've worked on. Most are personal projects I helped develop and lead. I have more details on my personal website https://astrosaturn.dev
 
 **Personal**
 
@@ -54,6 +54,8 @@ These are some projects I've worked on. Most are personal projects I helped deve
 > Due to security requirements, details in this section will be limited.
 
 - CAF Campus    | Department of National Defence (learning/information hub for canadian military members) - Full Stack Junior Developer
+
+  [CAF Campus introduction video](https://vimeo.com/1104173994/cb9e3075a6?share=copy)
 
   [![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#) 	[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#) 
   [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
