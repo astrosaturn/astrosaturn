@@ -19,7 +19,7 @@ I have also worked on projects linking software to external hardware like VR Hap
 
 ## { } Projects
 
-These are some projects I've worked on. Most are personal projects I helped develop and lead. I have more details on my personal website https://astrosaturn.dev
+These are some projects I've worked on. Most are personal projects I helped develop and lead. 
 
 **Personal**
 
