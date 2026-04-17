@@ -1,7 +1,7 @@
 # Hello! My name is Eric, or you can call me Saturn
-I'm a computer science student from Ontario, Canada. I’m passionate about building all kinds of technology from large web applications to XR game development. 
+I'm a computer science graduate from Ontario, Canada. I build all kinds of technology including (but not limited to) large web applications, VR games, and custom API's for videogame data. 
 
-I am currently in my internship in the CDA team in Kingston at the Department of National Defence. Right now I'm working on a full-stack Vue/Nuxt application for Canadian Armed Forces members!
+I had a year internship at the CDA team in Kingston at the Department of National Defence. I worked on CAF Campus, a full-stack Nuxt application used for training and education in the Canadian Armed Forces.
 
 I have worked on a variety of different projects including web development, game development, chat bots, user management systems, shaders/lighting systems, and physics systems. 
 
@@ -10,7 +10,7 @@ I have also worked on projects linking software to external hardware like VR Hap
 ---
 
 ## About Me
-- **3rd year Computer Science student** 
+- **Computer Science grad** 
 - **Comfortable as a full stack developer** 
 - **I have a particular interest in VR and Robotics**
 - **I learn very quickly and I am open to collaborative projects to expand my knowledge**
@@ -61,9 +61,6 @@ These are some projects I've worked on. Most are personal projects I helped deve
   [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 
-- VR Game  | Department of National Defence (Meta Quest 3, ARAIG Haptic Suit) - Main Developer  
-
-  [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) 
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astrosaturn&label=Profile%20views&color=3cb371" alt="astrosaturn" /> </p>
