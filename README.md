@@ -13,7 +13,9 @@ I'm comfortable with Javascript/Typescript, Vue, React, Nuxt, Python, C#, C++, a
 
 ## { } Projects
 
-These are some projects I've worked on. Most are personal projects I helped develop and lead. 
+These are some projects I've worked on. Most are personal projects I helped develop and lead.
+
+The stack used in each project is indicated by the shield badge.
 
 **Personal**
 
