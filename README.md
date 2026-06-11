@@ -7,13 +7,7 @@ I have worked on a variety of different projects including web development, game
 
 I have also worked on projects linking software to external hardware like VR Haptic Suits (ARAIG, bHaptics) and Arduino.
 
----
-
-## About Me
-- **Computer Science grad** 
-- **Comfortable as a full stack developer** 
-- **I have a particular interest in VR and Robotics**
-- **I learn very quickly and I am open to collaborative projects to expand my knowledge**
+I'm comfortable with Javascript/Typescript, Vue, React, Nuxt, Python, C#, C++, and I even know COBOL.
 
 ---
 
